@@ -1,6 +1,8 @@
 By Xinyi Huang on Jun. 30th 2022
+Modified version of LESGO for rotating channel using hard-coded neural network.
+The original paper by Xinyi Huang can be found in https://doi.org/10.1063/1.5129178.
 See https://lesgo.me.jhu.edu/ for some instructions. 
-See README file in code folder for more instructions.
+See README-JHU file in code folder for more instructions.
 
 To compile:
  - Make sure the modules are correctly loaded. On ACI system, it is 'module purge; module load intel impi cmake'.
